@@ -69,7 +69,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>nguyenquangos0302app/${project.artifactId}:s4</name>
+						<name>nguyenquangos0302app/${project.artifactId}</name>
 					</image>
 					<excludes>
 						<exclude>
