@@ -1,5 +1,5 @@
 #start with a base image containing Java runtime
-FROM openjdk:22-jdk-slim
+FROM openjdk:22-jdk
 
 #information about who built this image
 LABEL author="Eazy Bytes"
