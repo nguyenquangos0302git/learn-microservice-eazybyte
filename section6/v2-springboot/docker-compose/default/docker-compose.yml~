@@ -31,7 +31,7 @@ services:
       start_period: 10s
     extends:
       file: common-config.yml
-      service: microservice-base-config
+      service: microservice-configserver-config
 
   accounts:
     image: "nguyenquangos0302app/accounts:s6"
