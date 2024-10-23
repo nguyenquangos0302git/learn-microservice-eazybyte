@@ -1,8 +1,8 @@
 server:
-  port: 9000
+  port: 8090
 spring:
   application:
-    name: "cards"
+    name: "loans"
   profiles:
     active: "prod"
   datasource:
@@ -40,6 +40,9 @@ management:
   info:
     env:
       enabled: true
+  metrics:
+    tags:
+      application: ${spring.application.name}
 
 endpoints:
   shutdown:
@@ -56,12 +59,12 @@ eureka:
 
 info:
   app:
-    name: "cards"
-    description: "Eazy Bank Cards Application"
+    name: "loans"
+    description: "Eazy Bank Loans Application"
     version: "1.0.0"
 
 logging:
   level:
     com:
       eazybytes:
-        cards: DEBUG
+        loans: DEBUG

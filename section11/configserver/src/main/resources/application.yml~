@@ -34,7 +34,7 @@ management:
   metrics:
     tags:
       application: ${spring.application.name}
-      
+
 encrypt:
   key: "C4F557EB73B3A12163EDD3CDF3458"
 
