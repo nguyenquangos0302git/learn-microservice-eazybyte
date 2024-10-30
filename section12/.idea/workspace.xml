@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ac92a08-885c-40fe-8eea-4e96f56691f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build_push.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../build_push.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section11/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section11/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section11/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section11/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section11/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../section11/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../section11/.idea/section11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +52,7 @@
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/learn-microservice-eazybyte/section12/configserver",
+    "last_opened_file_path": "D:/learn-microservice-eazybyte/section13",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -193,6 +183,8 @@
       <workItem from="1729694083118" duration="9413000" />
       <workItem from="1729778657713" duration="52000" />
       <workItem from="1729778736551" duration="6913000" />
+      <workItem from="1729871315110" duration="3421000" />
+      <workItem from="1730001520274" duration="13000" />
     </task>
     <servers />
   </component>
